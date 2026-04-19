@@ -2,6 +2,7 @@
 
 Šis projektas – tai paprasta internetinė parduotuvė „Prieskonių pasaulis“, sukurta naudojant tik HTML5 ir CSS3. Svetainė leidžia vartotojui peržiūrėti produktus, matyti jų detalią informaciją bei peržiūrėti statinį krepšelį. Projektas orientuotas į aiškią struktūrą, estetišką dizainą ir patogų naršymą.
 
+
 📁 Projekto struktūra
 
 eshop/
