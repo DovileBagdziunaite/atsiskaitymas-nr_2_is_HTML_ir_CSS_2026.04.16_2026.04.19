@@ -6,12 +6,19 @@
 📁 Projekto struktūra
 
 eshop/
+
 │
+
 ├── products.html
+
 ├── product.html
+
 ├── cart.html
+
 ├── style.css
+
 └── images/
+
 
 
 📄 HTML failų aprašymas
