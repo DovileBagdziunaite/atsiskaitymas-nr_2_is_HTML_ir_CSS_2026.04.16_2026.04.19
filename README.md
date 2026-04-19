@@ -13,6 +13,7 @@ eshop/
 ├── style.css
 └── images/
 
+
 📄 HTML failų aprašymas
 
 🔹 products.html
